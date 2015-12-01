@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.11.29)  30 NOV 2015 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.11.29)  30 NOV 2015 23:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -685,25 +685,38 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 175.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language append on input line 203.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language append on input line 203.
+(babel)             in language append on input line 208.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language append on input line 208.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
 
 (./VitorArins_RelatorioTrabalhoPratico.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
-Package rerunfilecheck Info: File `VitorArins_RelatorioTrabalhoPratico.out' has
- not changed.
-(rerunfilecheck)             Checksum: 3616B5183544A635356BAAD1665EC89B;322.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 203.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+
+
+Package rerunfilecheck Warning: File `VitorArins_RelatorioTrabalhoPratico.out' 
+has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `VitorArins_RelatorioTrabalhoPratico
+.out':
+(rerunfilecheck)             Before: 3616B5183544A635356BAAD1665EC89B;322
+(rerunfilecheck)             After:  D4485AE906F7A2403383D6A642E4E669;369.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
  ) 
 Here is how much of TeX's memory you used:
- 8200 strings out of 495000
- 115360 string characters out of 6181168
+ 8201 strings out of 495000
+ 115369 string characters out of 6181168
  235459 words of memory out of 5000000
  11268 multiletter control sequences out of 15000+600000
  11554 words of font info for 41 fonts, out of 8000000 for 9000
@@ -717,11 +730,11 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti12.pfb>
-Output written on VitorArins_RelatorioTrabalhoPratico.pdf (7 pages, 616596 byte
+Output written on VitorArins_RelatorioTrabalhoPratico.pdf (7 pages, 616997 byte
 s).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 73 named destinations out of 1000 (max. 500000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 74 named destinations out of 1000 (max. 500000)
  84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
